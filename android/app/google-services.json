@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "49720567560",
+    "project_id": "studentsaving-5475b",
+    "storage_bucket": "studentsaving-5475b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49720567560:android:cbc350458fb21e4f8c2ebd",
+        "android_client_info": {
+          "package_name": "com.example.studentsaving"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49720567560-skaqiu52c90og8kkpj02kanbq2h6jc9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvAIVe7pS0GxZa6GRR2JlfGGqjCJiMn1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49720567560-skaqiu52c90og8kkpj02kanbq2h6jc9c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49720567560-1e8mtan8ai3u8putq5n1m8qi5rinkedf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ehazir-pro.techkumak"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
